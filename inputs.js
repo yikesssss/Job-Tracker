@@ -1,6 +1,6 @@
 // console.log("it works!");
 
-const api = import.meta.env.SHETT_LINK;
+const api = import.meta.env.SHETT_LINK; //fix this to actually work
 
 const titleIn = document.getElementById("titleInput");
 const companyIn = document.getElementById("companyInput");
