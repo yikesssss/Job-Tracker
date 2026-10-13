@@ -1,0 +1,14 @@
+{
+    "name": "Job Application Tracker",
+    "description": "Tracks how many jobs have been applied to with the fields of date, title and company",
+    "version": "1.0",
+    "icons": {
+        "16":"images/icon-16.png",
+        "32":"images/icon-32.png",
+        "128":"images/icon-128.png"
+    },
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "inputs.html"
+    }
+}
